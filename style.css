@@ -107,11 +107,6 @@ body.dark-mode footer {
   color: rgba(255, 255, 255, 0.8);
 }
 
-body.dark-mode .nav-links {
-  background: rgba(0, 0, 0, 0.9);
-  border: 1px solid rgba(255, 255, 255, 0.2);
-}
-
 body.dark-mode a {
   color: #60a5fa;
 }
@@ -206,7 +201,7 @@ header.scrolled {
   background: none;
   border: none;
   font-size: 1.8rem;
-  color: rgba(0,0,0,0.8);
+  color: rgba(138, 132, 132, 0.8);
   cursor: pointer;
 }
 
